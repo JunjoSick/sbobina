@@ -1,0 +1,10 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.cxx/
+models/
+.kotlin/
+# whisper.cpp's sample models; the app downloads its own.
+third_party/whisper.cpp/models/*.bin

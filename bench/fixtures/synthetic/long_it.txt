@@ -1,0 +1,11 @@
+Ciao Marco, sono io. Scusa per il vocale lungo, ma ti devo raccontare un po' di cose e scriverle tutte sarebbe stato peggio. Allora, partiamo dal fine settimana. Sabato mattina pensavo di partire verso le nove, così evitiamo il traffico sulla Firenze-Mare e arriviamo a Lucca per l'ora di pranzo. Ho prenotato un tavolo per quattro persone in una trattoria vicino a piazza dell'Anfiteatro, quella dove fanno i tordelli col ragù. Se Giulia non riesce a venire, avvisami entro giovedì, perché la prenotazione la devo confermare per telefono.
+
+Nel pomeriggio potremmo fare il giro delle mura in bicicletta. Sono circa quattro chilometri, quindi anche andando piano ce la caviamo in un'oretta. Poi, se il tempo regge, si sale sulla torre Guinigi, quella con gli alberi in cima. Domenica invece pensavo a una cosa più tranquilla: colazione con calma, un salto al mercato dell'antiquariato, e rientro nel primo pomeriggio.
+
+Cambiando argomento, al lavoro è stata una settimana pesante. Martedì abbiamo fatto il deploy della nuova versione e ovviamente è andato storto qualcosa. Il backend rispondeva, ma la dashboard restava vuota, e ci abbiamo messo tre ore a capire che era un problema di cache sul server di staging. Alla fine abbiamo fatto il rollback, sistemato la configurazione e rifatto tutto mercoledì sera. Adesso funziona, ma il mio capo vuole una riunione per capire come evitare che succeda di nuovo, quindi giovedì pomeriggio sono bloccato.
+
+Ah, un'altra cosa. Ti ricordi il libro di cui ti parlavo, quello sulla storia della Toscana medievale? L'ho finito. È molto bello, soprattutto la parte sulle rivalità tra Pisa e Firenze. Se vuoi te lo presto sabato, così lo leggi con calma. Dentro ho lasciato qualche appunto a matita, spero non ti dispiaccia.
+
+Poi, per la questione dell'appartamento: il proprietario mi ha richiamato ieri. Dice che l'affitto resta uguale, seicentocinquanta euro al mese, ma vuole che firmiamo il contratto entro la fine di novembre. Io direi di andare a vederlo insieme lunedì prossimo, verso le sei di sera, dopo il lavoro. Fammi sapere se per te va bene.
+
+Ultima cosa, e poi chiudo davvero. Il codice del portone nuovo è quattro, sette, due, nove. Segnatelo da qualche parte, perché io me lo dimentico sempre. Va bene, ci sentiamo. Un abbraccio, ciao!
