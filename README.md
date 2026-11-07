@@ -10,7 +10,7 @@ is the fallback. Full plan: [Build Plan](https://claude.ai/artifact/35Qw9Z69JBh5
 
 ## Install
 
-[<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" alt="Get it on Obtainium" height="54">](https://apps.obtainium.imranr.dev/redirect.html?r=obtainium://add/https://github.com/JunjoSick/sbobina)
+[<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" alt="Get it on Obtainium" height="54">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/JunjoSick/sbobina)
 
 On the phone, the badge opens Obtainium with Sbobina's address already filled in.
 
